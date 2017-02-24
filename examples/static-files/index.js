@@ -5,6 +5,7 @@
 var express = require('../..');
 var path = require('path');
 var logger = require('morgan');
+var path = require('path');
 var app = express();
 
 // log requests
